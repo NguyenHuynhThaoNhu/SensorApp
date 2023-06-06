@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "266736565095",
+    "firebase_url": "https://sensors-a22c9-default-rtdb.firebaseio.com",
+    "project_id": "sensors-a22c9",
+    "storage_bucket": "sensors-a22c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266736565095:android:bdc2c837f199ff08160dc2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkLUR7UHpodfdAu4qtQIWRhJaxhPtrvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266736565095:android:899136511a57869b160dc2",
+        "android_client_info": {
+          "package_name": "com.example.sensor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkLUR7UHpodfdAu4qtQIWRhJaxhPtrvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
